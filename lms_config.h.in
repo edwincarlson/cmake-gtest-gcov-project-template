@@ -1,0 +1,8 @@
+#ifndef LMS_CONFIG
+#define LMS_CONFIG
+
+// the configured options and settings for Tutorial
+#define LMS_VERSION_MAJOR @library-management-system_VERSION_MAJOR@
+#define LMS_VERSION_MINOR @library-management-system_VERSION_MINOR@
+
+#endif
