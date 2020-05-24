@@ -1,4 +1,4 @@
-# Project Title
+# CMake Project Template
 
 This project is a template for C++ projects using CMake, GoogleTest, and GCOV.
 
